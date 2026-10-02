@@ -1,0 +1,20 @@
+{
+  "name": "small-business-operator",
+  "version": "1.0.0",
+  "description": "A practical operating layer for small-business owners covering sales, cash, customers, delivery, people, vendors, commitments, and decisions.",
+  "author": {
+    "name": "Revuity Systems",
+    "email": "info@revuitysystems.com",
+    "url": "https://revuitysystems.com"
+  },
+  "homepage": "https://revuitysystems.com",
+  "license": "MIT",
+  "keywords": [
+    "small-business",
+    "operations",
+    "owner",
+    "workflow",
+    "revuity"
+  ],
+  "repository": "https://github.com/revuitysystems/revuity-small-business-operator"
+}
