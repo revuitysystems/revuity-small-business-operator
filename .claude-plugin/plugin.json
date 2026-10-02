@@ -16,5 +16,6 @@
     "workflow",
     "revuity"
   ],
-  "repository": "https://github.com/revuitysystems/revuity-small-business-operator"
+  "repository": "https://github.com/revuitysystems/revuity-small-business-operator",
+  "icon": "./assets/icon.png"
 }
