@@ -2,12 +2,18 @@
 
 **A free Claude workflow plugin by [Revuity Systems](https://revuitysystems.com).**
 
+<img src="assets/icon-256.png" alt="Small Business Operator plugin icon" width="128" height="128">
+
 A free Claude plugin that helps a small-business owner run the operating rhythm of the company. It organizes scattered business activity into a practical operating view across sales, customers, cash, operations, people, vendors, commitments, and decisions.
 
 - Plugin name: `small-business-operator`
 - Skill: `/small-business-operator:business-operating-rhythm`
 - Version: 1.0.0
 - License: MIT
+
+## Plugin icon
+
+The icon is stored at `assets/icon.png`, with 512, 256, and 128 pixel versions alongside it. The manifest references it with the `icon` field, which Anthropic's directory reads for the plugin listing and Claude Code ignores at load time.
 
 ## Good for
 
