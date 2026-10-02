@@ -1,5 +1,6 @@
 {
   "name": "small-business-operator",
+  "displayName": "Small Business Operator",
   "version": "1.0.0",
   "description": "A practical operating layer for small-business owners covering sales, cash, customers, delivery, people, vendors, commitments, and decisions.",
   "author": {
